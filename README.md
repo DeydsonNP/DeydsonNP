@@ -1,7 +1,3 @@
-Aqui está uma sugestão de README para o seu GitHub pessoal:
-
----
-
 # Olá! Eu sou o Deydson 👋
 
 Sou um **Analytics Engineer** especializado em análise e modelagem de dados. Apaixonado pelo mundo dos dados, estou sempre em busca de aprimorar minhas habilidades e trazer soluções inovadoras.
@@ -33,8 +29,6 @@ Hoje, atuo como **Analytics Engineer**, focando no desenvolvimento de **produtos
 
 ## 🌱 Em Constante Evolução
 Estou sempre estudando e aplicando novas tecnologias, buscando melhorar minhas práticas e trazer ainda mais inovação para o ambiente de dados.
-
----
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! 👇
 
